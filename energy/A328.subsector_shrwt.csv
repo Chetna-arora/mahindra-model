@@ -1,0 +1,16 @@
+# File: A328.subsector_shrwt.csv
+# Title: oem default subsector shareweights
+# Units: Unitless
+# Column types: ccccn
+# ----------
+supplysector,subsector,year.fillout,year,share.weight
+oem,ICE Passenger vehicles,start-year,,1
+oem,EV Passenger vehicles,start-year,,1
+oem,ICE LCV,start-year,,1
+oem,EV LCV,start-year,,1
+oem,3W,start-year,,1
+oem,E 3W,start-year,,1
+oem,2W,start-year,,1
+oem,E 2W,start-year,,1
+oem,ICE HCV,start-year,,1
+oem,EV HCV,start-year,,1

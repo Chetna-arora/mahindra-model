@@ -1,0 +1,41 @@
+# File: A329.globaltech_coef.csv
+# Title: parts production default coefficients
+# Units: energy coef
+# Column types: ccccnnn
+# ----------
+supplysector,subsector,technology,minicam.energy.input,1971,2010,2100
+parts,Bodies,Bodies,delivered biomass,0.00001,0.00001,0.00001
+parts,Bodies,Bodies,delivered coal,0.007,0.007,0.007
+parts,Bodies,Bodies,elect_td_ind,0.9,0.9,0.9
+parts,Bodies,Bodies,wholesale gas,0.09,0.09,0.09
+parts,Bodies,Bodies,refined liquids industrial,0.0004,0.0004,0.0004
+parts,Chassi,Chassi,delivered biomass,0.00001,0.00001,0.00001
+parts,Chassi,Chassi,delivered coal,0.07,0.07,0.07
+parts,Chassi,Chassi,elect_td_ind,0.89,0.89,0.89
+parts,Chassi,Chassi,wholesale gas,0.07,0.07,0.07
+parts,Chassi,Chassi,refined liquids industrial,0.007,0.007,0.007
+parts,Seat,Seat,delivered biomass,0.00001,0.00001,0.00001
+parts,Seat,Seat,delivered coal,0.09,0.09,0.09
+parts,Seat,Seat,elect_td_ind,0.9,0.9,0.9
+parts,Seat,Seat,wholesale gas,0.08,0.08,0.08
+parts,Seat,Seat,refined liquids industrial,0.06,0.06,0.06
+parts,Engine ,Engine ,delivered biomass,0.00001,0.00001,0.00001
+parts,Engine ,Engine ,delivered coal,1.01,1.01,1.01
+parts,Engine ,Engine ,elect_td_ind,1.1,1.1,1.1
+parts,Engine ,Engine ,wholesale gas,0.005,0.005,0.005
+parts,Engine ,Engine ,refined liquids industrial,0.004,0.004,0.004
+parts,Electrical equipment ,Electrical equipment ,delivered biomass,0.00001,0.00001,0.00001
+parts,Electrical equipment ,Electrical equipment ,delivered coal,0.78,0.78,0.78
+parts,Electrical equipment ,Electrical equipment ,elect_td_ind,0.92,0.92,0.92
+parts,Electrical equipment ,Electrical equipment ,wholesale gas,0.007,0.007,0.007
+parts,Electrical equipment ,Electrical equipment ,refined liquids industrial,0.006,0.006,0.006
+parts,others,others,delivered biomass,0.00001,0.00001,0.00001
+parts,others,others,delivered coal,1.12,1.12,1.12
+parts,others,others,elect_td_ind,0.99,0.99,0.99
+parts,others,others,wholesale gas,0.0089,0.0089,0.0089
+parts,others,others,refined liquids industrial,0.0059,0.0059,0.0059
+parts,Battery,Battery,delivered biomass,0.00001,0.00001,0.00001
+parts,Battery,Battery,delivered coal,1.01,1.01,1.01
+parts,Battery,Battery,elect_td_ind,1.1,1.1,1.1
+parts,Battery,Battery,wholesale gas,0.005,0.005,0.005
+parts,Battery,Battery,refined liquids industrial,0.004,0.004,0.004

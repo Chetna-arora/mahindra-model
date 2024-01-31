@@ -1,0 +1,7 @@
+# File: A329.sector.csv
+# Title: parts sector default supplysector information (units and logit exponents)
+# Units: In file
+# Column types: ccccicc
+# ----------
+supplysector,output.unit,input.unit,price.unit,logit.exponent,final.energy,logit.type
+parts,number,EJ,1975$/number,-3,industry,

@@ -1,0 +1,58 @@
+# File: oem_intensity.csv
+# Title: IO in oem production by subsector and technology
+# Units: GJ/vehicle
+# Description: Energy coefficient in oem production
+# Source: dummy to be changed
+# Column types: cccnc
+# ----------
+subsector,technology,fuel,value,Unit
+ICE Passenger vehicles,ICE Passenger vehicles,biomass,0,GJ/vehicle
+ICE Passenger vehicles,ICE Passenger vehicles,coal,0.00E+00,GJ/vehicle
+ICE Passenger vehicles,ICE Passenger vehicles,electricity,1.87E+00,GJ/vehicle
+ICE Passenger vehicles,ICE Passenger vehicles,gas,4.10E+00,GJ/vehicle
+ICE Passenger vehicles,ICE Passenger vehicles,refined liquids ,0.00E+00,GJ/vehicle
+EV Passenger vehicles,EV Passenger vehicles,biomass,0,GJ/vehicle
+EV Passenger vehicles,EV Passenger vehicles,coal,0,GJ/vehicle
+EV Passenger vehicles,EV Passenger vehicles,electricity,0.00E+00,GJ/vehicle
+EV Passenger vehicles,EV Passenger vehicles,gas,0.00E+00,GJ/vehicle
+EV Passenger vehicles,EV Passenger vehicles,refined liquids ,0.00E+00,GJ/vehicle
+ICE LCV,ICE LCV,biomass,0,GJ/vehicle
+ICE LCV,ICE LCV,coal,0.00E+00,GJ/vehicle
+ICE LCV,ICE LCV,electricity,3.72E+00,GJ/vehicle
+ICE LCV,ICE LCV,gas,9.30E-01,GJ/vehicle
+ICE LCV,ICE LCV,refined liquids ,0.00E+00,GJ/vehicle
+EV LCV,EV LCV,biomass,0,GJ/vehicle
+EV LCV,EV LCV,coal,0,GJ/vehicle
+EV LCV,EV LCV,electricity,0.00E+00,GJ/vehicle
+EV LCV,EV LCV,gas,0.00E+00,GJ/vehicle
+EV LCV,EV LCV,refined liquids ,0.00E+00,GJ/vehicle
+3W,3W,biomass,0,GJ/vehicle
+3W,3W,coal,0.00E+00,GJ/vehicle
+3W,3W,electricity,9.50E-01,GJ/vehicle
+3W,3W,gas,0.00E+00,GJ/vehicle
+3W,3W,refined liquids ,0.00E+00,GJ/vehicle
+E 3W,E 3W,biomass,0,GJ/vehicle
+E 3W,E 3W,coal,0,GJ/vehicle
+E 3W,E 3W,electricity,0.00E+00,GJ/vehicle
+E 3W,E 3W,gas,0.00E+00,GJ/vehicle
+E 3W,E 3W,refined liquids ,0.00E+00,GJ/vehicle
+2W,2W,biomass,0,GJ/vehicle
+2W,2W,coal,0.00E+00,GJ/vehicle
+2W,2W,electricity,1.21E-01,GJ/vehicle
+2W,2W,gas,5.07E-02,GJ/vehicle
+2W,2W,refined liquids ,0.00E+00,GJ/vehicle
+E 2W,E 2W,biomass,0,GJ/vehicle
+E 2W,E 2W,coal,0,GJ/vehicle
+E 2W,E 2W,electricity,0.00E+00,GJ/vehicle
+E 2W,E 2W,gas,0.00E+00,GJ/vehicle
+E 2W,E 2W,refined liquids ,0.00E+00,GJ/vehicle
+ICE HCV,ICE HCV,biomass,0,GJ/vehicle
+ICE HCV,ICE HCV,coal,0.00E+00,GJ/vehicle
+ICE HCV,ICE HCV,electricity,1.96E+01,GJ/vehicle
+ICE HCV,ICE HCV,gas,1.36E+00,GJ/vehicle
+ICE HCV,ICE HCV,refined liquids ,0.00E+00,GJ/vehicle
+EV HCV,EV HCV,biomass,0,GJ/vehicle
+EV HCV,EV HCV,coal,0,GJ/vehicle
+EV HCV,EV HCV,electricity,0.00E+00,GJ/vehicle
+EV HCV,EV HCV,gas,0.00E+00,GJ/vehicle
+EV HCV,EV HCV,refined liquids ,0.00E+00,GJ/vehicle

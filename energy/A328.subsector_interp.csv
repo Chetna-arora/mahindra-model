@@ -1,0 +1,16 @@
+# File: A328.subsector_interp.csv
+# Title: oem default subsector shareweight interpolation
+# Units: NA
+# Column types: ccccccc
+# ----------
+supplysector,subsector,apply.to,from.year,to.year,to.value,interpolation.function
+oem,ICE Passenger vehicles,share-weight,final-calibration-year,end-year,,fixed
+oem,EV Passenger vehicles,share-weight,final-calibration-year,end-year,,fixed
+oem,ICE LCV,share-weight,final-calibration-year,end-year,,fixed
+oem,EV LCV,share-weight,final-calibration-year,end-year,,fixed
+oem,3W,share-weight,final-calibration-year,end-year,,fixed
+oem,E 3W,share-weight,final-calibration-year,end-year,,fixed
+oem,2W,share-weight,final-calibration-year,end-year,,fixed
+oem,E 2W,share-weight,final-calibration-year,end-year,,fixed
+oem,ICE HCV,share-weight,final-calibration-year,end-year,,fixed
+oem,EV HCV,share-weight,final-calibration-year,end-year,,fixed

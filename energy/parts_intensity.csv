@@ -1,0 +1,43 @@
+# File: parts_intensity.csv
+# Title: IO in parts production by subsector and technology
+# Units: GJ/number
+# Description: Energy coefficient in parts production
+# Source: dummy to be changed
+# Column types: cccnc
+# ----------
+subsector,technology,fuel,value,Unit
+Bodies,Bodies,biomass,0.04,GJ/number
+Bodies,Bodies,coal,0.06,GJ/number
+Bodies,Bodies,electricity,1.6,GJ/number
+Bodies,Bodies,gas,1.3,GJ/number
+Bodies,Bodies,refined liquids ,0.007,GJ/number
+Chassi,Chassi,biomass,0.04,GJ/number
+Chassi,Chassi,coal,0.06,GJ/number
+Chassi,Chassi,electricity,1.6,GJ/number
+Chassi,Chassi,gas,1.3,GJ/number
+Chassi,Chassi,refined liquids ,0.007,GJ/number
+Seat,Seat,biomass,0.04,GJ/number
+Seat,Seat,coal,0.06,GJ/number
+Seat,Seat,electricity,1.6,GJ/number
+Seat,Seat,gas,1.3,GJ/number
+Seat,Seat,refined liquids ,0.007,GJ/number
+Engine,Engine,biomass,0.04,GJ/number
+Engine,Engine,coal,0.06,GJ/number
+Engine,Engine,electricity,1.6,GJ/number
+Engine,Engine,gas,1.3,GJ/number
+Engine,Engine,refined liquids ,0.007,GJ/number
+Electrical equipment,Electrical equipment,biomass,0.04,GJ/number
+Electrical equipment,Electrical equipment,coal,0.06,GJ/number
+Electrical equipment,Electrical equipment,electricity,1.6,GJ/number
+Electrical equipment,Electrical equipment,gas,1.3,GJ/number
+Electrical equipment,Electrical equipment,refined liquids ,0.007,GJ/number
+others,others,biomass,0.04,GJ/number
+others,others,coal,0.06,GJ/number
+others,others,electricity,1.6,GJ/number
+others,others,gas,1.3,GJ/number
+others,others,refined liquids ,0.007,GJ/number
+Battery,Battery,biomass,0.04,GJ/number
+Battery,Battery,coal,0.06,GJ/number
+Battery,Battery,electricity,1.6,GJ/number
+Battery,Battery,gas,1.3,GJ/number
+Battery,Battery,refined liquids ,0.007,GJ/number

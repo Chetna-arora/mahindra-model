@@ -1,0 +1,16 @@
+# File: A328.globaltech_shrwt.csv
+# Title: oem default shareweights
+# Units: Unitless
+# Column types: cccnnnnnn
+# ----------
+supplysector,subsector,technology,1971,2015,2020,2025,2050,2100
+oem,ICE Passenger vehicles,ICE Passenger vehicles,1,1,1,1,1,1
+oem,EV Passenger vehicles,EV Passenger vehicles,0,0.1,0.2,0.3,0.4,0.5
+oem,ICE LCV,ICE LCV,1,1,1,1,1,1
+oem,EV LCV,EV LCV,0,0.1,0.2,0.3,0.4,0.5
+oem,3W,3W,1,1,1,1,1,1
+oem,E 3W,E 3W,0,0.1,0.2,0.3,0.4,0.5
+oem,2W,2W,1,1,1,1,1,1
+oem,E 2W,E 2W,0,0.1,0.2,0.3,0.4,0.5
+oem,ICE HCV,ICE HCV,1,1,1,1,1,1
+oem,EV HCV,EV HCV,0,0.1,0.2,0.3,0.4,0.5

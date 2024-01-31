@@ -1,0 +1,16 @@
+# File: A328.globaltech_cost.csv
+# Title: oem default costs
+# Units: 1975$/vehicle for supplysector oem
+# Column types: ccccnnnn
+# ----------
+supplysector,subsector,technology,minicam.non.energy.input,1971,2010,2050,2100
+oem,ICE Passenger vehicles,ICE Passenger vehicles,non-energy,1063.829787,1063.829787,997,997
+oem,EV Passenger vehicles,EV Passenger vehicles,non-energy,1276.595745,1276.595745,1050,1050
+oem,ICE LCV,ICE LCV,non-energy,2553.191489,2553.191489,2200,2200
+oem,EV LCV,EV LCV,non-energy,2978.723404,2978.723404,2500,2500
+oem,3W,3W,non-energy,212.7659574,212.7659574,200,200
+oem,E 3W,E 3W,non-energy,276.5957447,276.5957447,240,240
+oem,2W,2W,non-energy,85.10638298,85.10638298,75,75
+oem,E 2W,E 2W,non-energy,117.0212766,117.0212766,85.10638298,85.10638298
+oem,ICE HCV,ICE HCV,non-energy,2553.191489,2553.191489,2200,2200
+oem,EV HCV,EV HCV,non-energy,2978.723404,2978.723404,2500,2500

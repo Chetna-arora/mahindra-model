@@ -1,0 +1,13 @@
+# File: A329.subsector_logit.csv
+# Title: parts default subsector logit exponents
+# Units: Unitless
+# Column types: ccic
+# ----------
+supplysector,subsector,logit.exponent,logit.type
+parts,Bodies,0,
+parts,Chassi,0,
+parts,Seat,0,
+parts,Engine,0,
+parts,Electrical equipment,0,
+parts,others,0,
+parts,Battery,0,

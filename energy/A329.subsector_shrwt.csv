@@ -1,0 +1,13 @@
+# File: A329.subsector_shrwt.csv
+# Title: parts default subsector shareweights
+# Units: Unitless
+# Column types: ccccn
+# ----------
+supplysector,subsector,year.fillout,year,share.weight
+parts,Bodies,start-year,,1
+parts,Chassi,start-year,,1
+parts,Seat,start-year,,1
+parts,Engine,start-year,,1
+parts,Electrical equipment,start-year,,1
+parts,others,start-year,,1
+parts,Battery,start-year,,1

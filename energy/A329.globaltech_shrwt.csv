@@ -1,0 +1,13 @@
+# File: A329.globaltech_shrwt.csv
+# Title: parts default shareweights
+# Units: Unitless
+# Column types: cccnnnnnn
+# ----------
+supplysector,subsector,technology,1971,2015,2020,2025,2050,2100
+parts,Bodies,Bodies,1,1,1,1,1,1
+parts,Chassi,Chassi,1,1,1,1,1,1
+parts,Seat,Seat,1,1,1,1,1,1
+parts,Engine,Engine,1,1,1,1,1,1
+parts,Electrical equipment,Electrical equipment,1,1,1,1,1,1
+parts,others,others,1,1,1,1,1,1
+parts,Battery,Battery,1,1,1,1,1,1

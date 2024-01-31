@@ -1,0 +1,16 @@
+# File: A328.subsector_logit.csv
+# Title: oem default subsector logit exponents
+# Units: Unitless
+# Column types: ccic
+# ----------
+supplysector,subsector,logit.exponent,logit.type
+oem,ICE Passenger vehicles,-6,
+oem,EV Passenger vehicles,-6,
+oem,ICE LCV,-6,
+oem,EV LCV,-6,
+oem,3W,-6,
+oem,E 3W,-6,
+oem,2W,-6,
+oem,E 2W,-6,
+oem,ICE HCV,-6,
+oem,EV HCV,-6,

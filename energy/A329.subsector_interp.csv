@@ -1,0 +1,13 @@
+# File: A329.subsector_interp.csv
+# Title: parts default subsector shareweight interpolation
+# Units: NA
+# Column types: ccccccc
+# ----------
+supplysector,subsector,apply.to,from.year,to.year,to.value,interpolation.function
+parts,Bodies,share-weight,final-calibration-year,end-year,,fixed
+parts,Chassi,share-weight,final-calibration-year,end-year,,fixed
+parts,Seat,share-weight,final-calibration-year,end-year,,fixed
+parts,Engine,share-weight,final-calibration-year,end-year,,fixed
+parts,Electrical equipment,share-weight,final-calibration-year,end-year,,fixed
+parts,others,share-weight,final-calibration-year,end-year,,fixed
+parts,Battery,share-weight,final-calibration-year,end-year,,fixed

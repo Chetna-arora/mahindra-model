@@ -1,0 +1,13 @@
+# File: A329.globaltech_cost.csv
+# Title: parts default costs
+# Units: 1975$/number for supplysector parts
+# Column types: ccccnnnn
+# ----------
+supplysector,subsector,technology,minicam.non.energy.input,1971,2010,2050,2100
+parts,Bodies,Bodies,non-energy,12964.27762,12964.27762,11500,11500
+parts,Chassi,Chassi,non-energy,1150.150664,1150.150664,1050,1050
+parts,Seat,Seat,non-energy,3026.063206,3026.063206,2700,2700
+parts,Engine,Engine,non-energy,23239.81458,23239.81458,21250,21250
+parts,Electrical equipment,Electrical equipment,non-energy,149398.1167,149398.1167,142000,142000
+parts,others,others,non-energy,307.9294826,307.9294826,301,301
+parts,Battery,Battery,non-energy,23239.81458,23239.81458,21250,21250

@@ -1,0 +1,56 @@
+# File: A328.globaltech_coef.csv
+# Title: oem production default coefficients
+# Units: vehicle or energy
+# Column types: ccccnnn
+# ----------
+supplysector,subsector,technology,minicam.energy.input,1971,2010,2100
+oem,ICE Passenger vehicles,ICE Passenger vehicles,delivered biomass,0,0,0
+oem,ICE Passenger vehicles,ICE Passenger vehicles,delivered coal,0,0,0
+oem,ICE Passenger vehicles,ICE Passenger vehicles,elect_td_ind,0,0,1.8671
+oem,ICE Passenger vehicles,ICE Passenger vehicles,wholesale gas,0,0,4.10492
+oem,ICE Passenger vehicles,ICE Passenger vehicles,refined liquids industrial,0,0,0
+oem,EV Passenger vehicles,EV Passenger vehicles,delivered biomass,0,0,0
+oem,EV Passenger vehicles,EV Passenger vehicles,delivered coal,0,0,0
+oem,EV Passenger vehicles,EV Passenger vehicles,elect_td_ind,0,0,0
+oem,EV Passenger vehicles,EV Passenger vehicles,wholesale gas,0,0,0
+oem,EV Passenger vehicles,EV Passenger vehicles,refined liquids industrial,0,0,0
+oem,ICE LCV,ICE LCV,delivered biomass,0,0,0
+oem,ICE LCV,ICE LCV,delivered coal,0,0,0
+oem,ICE LCV,ICE LCV,elect_td_ind,0,0,3.71727
+oem,ICE LCV,ICE LCV,wholesale gas,0,0,0.93001
+oem,ICE LCV,ICE LCV,refined liquids industrial,0,0,0
+oem,EV LCV,EV LCV,delivered biomass,0,0,0
+oem,EV LCV,EV LCV,delivered coal,0,0,0
+oem,EV LCV,EV LCV,elect_td_ind,0,0,0
+oem,EV LCV,EV LCV,wholesale gas,0,0,0
+oem,EV LCV,EV LCV,refined liquids industrial,0,0,0
+oem,3W,3W,delivered biomass,0,0,0
+oem,3W,3W,delivered coal,0,0,0
+oem,3W,3W,elect_td_ind,0,0,0.95002
+oem,3W,3W,wholesale gas,0,0,0
+oem,3W,3W,refined liquids industrial,0,0,0
+oem,E 3W,E 3W,delivered biomass,0,0,0
+oem,E 3W,E 3W,delivered coal,0,0,0
+oem,E 3W,E 3W,elect_td_ind,0,0,0
+oem,E 3W,E 3W,wholesale gas,0,0,0
+oem,E 3W,E 3W,refined liquids industrial,0,0,0
+oem,2W,2W,delivered biomass,0,0,0
+oem,2W,2W,delivered coal,0,0,0
+oem,2W,2W,elect_td_ind,0,0,0.12138
+oem,2W,2W,wholesale gas,0,0,0.05071
+oem,2W,2W,refined liquids industrial,0,0,0
+oem,E 2W,E 2W,delivered biomass,0,0,0
+oem,E 2W,E 2W,delivered coal,0,0,0
+oem,E 2W,E 2W,elect_td_ind,0,0,0
+oem,E 2W,E 2W,wholesale gas,0,0,0
+oem,E 2W,E 2W,refined liquids industrial,0,0,0
+oem,ICE HCV,ICE HCV,delivered biomass,0,0,0
+oem,ICE HCV,ICE HCV,delivered coal,0,0,0
+oem,ICE HCV,ICE HCV,elect_td_ind,0,0,19.59837
+oem,ICE HCV,ICE HCV,wholesale gas,0,0,1.36042
+oem,ICE HCV,ICE HCV,refined liquids industrial,0,0,0
+oem,EV HCV,EV HCV,delivered biomass,0,0,0
+oem,EV HCV,EV HCV,delivered coal,0,0,0
+oem,EV HCV,EV HCV,elect_td_ind,0,0,0
+oem,EV HCV,EV HCV,wholesale gas,0,0,0
+oem,EV HCV,EV HCV,refined liquids industrial,0,0,0
